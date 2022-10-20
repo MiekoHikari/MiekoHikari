@@ -16,6 +16,11 @@ I've recently completed my IGCSE (International General Certification for Second
 ### [🌱] Learning [🌱]
 I want to work on Artificial Intelligence and develop a way to converse and feel! Learning C++, HTML, CSS, JS.
 
+### [📂] Interesting projects [📂]
+These are projects I want to work on at some point:
+ - Pyrofall (Game I wanted to work on)
+ - Merciless Engine (A Chess engine)
+
 #### [💞]️ Collab Info [💞]
 I like to collaborate with people but make sure you are nice! I am trying to improve myself everyday by interacting with people!
 
@@ -24,6 +29,3 @@ Feel free to reach out to me on:
 - Email: Contact@MiekoHikari.live or Mieko.Hikarii@gmail.com
 - Twitter: https://twitter.com/miekohikarien
 - Discord: Aoki Aria#9439
-
-> Happy Gaming and remember to stay determined! [💙]
-> \- Signed not lancer
