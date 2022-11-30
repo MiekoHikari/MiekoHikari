@@ -1,5 +1,5 @@
 # [👋] Introduction [👋]
-Hello! My internet name is Mieko Hikari. Nice to meet you! I am currently 15 years old who likes to make things but is dry on ideas! I want to be a gaming youtuber and also be a great competitive player!
+Hello! My internet name is Mieko Hikari. Nice to meet you! I am currently 16 years old who likes to make things but is dry on ideas! I want to be a gaming youtuber and also be a great competitive player!
 
 ### [👀] Interests [👀]
 I like to learn alot so naturally, I have alot of interests! I tried to make music and art but left it for future me when I can afford courses. Currently self studying programming on my way to Electronics Engineering. 
