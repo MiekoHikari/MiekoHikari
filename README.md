@@ -1,30 +1,10 @@
-# [👋] Introduction [👋]
-Hello! My internet name is Mieko Hikari. Nice to meet you! I am currently 16 years old who likes to make things but is dry on ideas! I want to be a gaming youtuber and also be a great competitive player!
+<div align=center>
+ 
+###### All I ever wanted to do was make people smile ❣️
+ 
+ # Hi there! I'm Mieko Hikari! 💻
+</div>
+I'm a VTuber, JS Developer and a student with hopes of making content for a living! Nowadays it has become pretty generic to have this dream but my resolve is genuine and true to its heart <3
 
-### [👀] Interests [👀]
-I like to learn alot so naturally, I have alot of interests! I tried to make music and art but left it for future me when I can afford courses. Currently self studying programming on my way to Electronics Engineering. 
-
-### [🎓] Academics [🎓]
-I've recently completed my IGCSE (International General Certification for Secondary Education) with cambridge. Here are my results:
- - Computer Science: A
- - English as a second language: A
- - Chemistry: B
- - Physcs: B
- - Business Studies: C
- - Mathematics: C
-
-### [🌱] Learning [🌱]
-I want to work on Artificial Intelligence and develop a way to converse and feel! Learning JS.
-
-### [📂] Interesting projects [📂]
-These are projects I want to work on at some point:
- - Pyrofall (Game I wanted to work on)
-
-#### [💞]️ Collab Info [💞]
-I like to collaborate with people but make sure you are nice! I am trying to improve myself everyday by interacting with people!
-
-## [📫] Contact [📫]
-Feel free to reach out to me on:
-- Email: Contact@MiekoHikari.live or Mieko.Hikarii@gmail.com
-- Twitter: https://twitter.com/miekohikarien
-- Discord: Aoki Aria#9439
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
